@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'introduzca sus tres calificaciones'
+5
+1
+7
+califi1
+5
+1
+7
+califi2
+5
+1
+7
+califi3
+6
+1
+8
+promedio
+27
+(califi1+califi2+califi3)/3
+7
+0
+1
+13
+promedio>=4.0
+4
+1
+26
+'REPROBASTE CON ',promedio
+13
+4
+1
+25
+'APROBASTE CON ',promedio
+13
+1
